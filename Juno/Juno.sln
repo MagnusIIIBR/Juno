@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juno.Library", "Juno.Librar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juno.Test", "Juno.Test\Juno.Test.csproj", "{33DB069A-8F43-4EA2-82EB-F9362D1EEE47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juno.ILibrary", "Juno.ILibrary\Juno.ILibrary.csproj", "{2BC7E16D-2133-4E4A-9C4E-E9BE84C9CB18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{33DB069A-8F43-4EA2-82EB-F9362D1EEE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33DB069A-8F43-4EA2-82EB-F9362D1EEE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33DB069A-8F43-4EA2-82EB-F9362D1EEE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC7E16D-2133-4E4A-9C4E-E9BE84C9CB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC7E16D-2133-4E4A-9C4E-E9BE84C9CB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC7E16D-2133-4E4A-9C4E-E9BE84C9CB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC7E16D-2133-4E4A-9C4E-E9BE84C9CB18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
